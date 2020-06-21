@@ -1,0 +1,2 @@
+rootProject.name='GadsNote'
+include ':app'
