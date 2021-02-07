@@ -41,7 +41,7 @@ Its attached to the left edge of the main activity and has two items on the menu
 This activity functions to add a new note. its launched on Onclick of FAB 
 
 
-![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/Navigation.png?raw=true)
+![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/Edit.png?raw=true)
 
 
 
