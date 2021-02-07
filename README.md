@@ -32,6 +32,18 @@ It displays the courses on a grid of two columns
 Its attached to the left edge of the main activity and has two items on the menu, that is courses and notes
 
 
-![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/Courses.png?raw=true)
+![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/Navigation.png?raw=true)
+
+
+## Add Note
+
+
+This activity functions to add a new note. its launched on Onclick of FAB 
+
+
+![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/Navigation.png?raw=true)
+
+
+
 
 
