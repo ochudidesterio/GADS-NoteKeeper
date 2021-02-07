@@ -23,4 +23,15 @@ It displays the courses and notes on a linear Layout.
 
 It displays the courses on a grid of two columns
 
-![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/Notes.png?raw=true)
+![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/Courses.png?raw=true)
+
+
+## Navigation Drawer and Menu
+
+
+Its attached to the left edge of the main activity and has two items on the menu, that is courses and notes
+
+
+![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/Courses.png?raw=true)
+
+
