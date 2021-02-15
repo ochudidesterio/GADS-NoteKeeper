@@ -44,6 +44,15 @@ This activity functions to add a new note. its launched on Onclick of FAB
 ![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/addNote.png?raw=true)
 
 
+## Edit Note
+
+
+This activity is loaded via a recycler view item click listener and one can edit a note at that position
+
+
+![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/edit%20notes.png?raw=true)
+
+
 
 
 
