@@ -15,7 +15,7 @@ A basic android application to display a list of courses and notes related to ea
 
 It displays the courses and notes on a linear Layout.
 
-![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/Notes.png?raw=true)
+![Notes](https://github.com/ochudidesterio/GADS-NoteKeeper/blob/master/images/Home.png?raw=true)
 
 
 ## RecyclerView with GridLayoutManager
