@@ -16,7 +16,7 @@
     <br>
     
     
-       <img align="center" src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
+<img align="center" src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
 
 
 
