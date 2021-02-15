@@ -14,6 +14,11 @@
     :point_down: :point_down: :point_down: :point_down: :point_down:
     
     <br>
+    
+    
+       <img align="center" src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
+
+
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ochudidesterio/GADS-NoteKeeper)
     
