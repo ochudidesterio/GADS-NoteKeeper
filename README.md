@@ -1,4 +1,23 @@
 
+## Table of Contents
+
+  - [GADS-NoteKeeper](#gads-notekeeper)
+  - [Prerequisites](#prerequisites)
+  - [Project Flow](#project-flow)
+    - [RecyclerView with LinearLayoutManager](#recyclerview-with-linearlayoutmanager)
+    - [RecyclerView with GridLayoutManager](#recyclerview-with-gridlayoutmanager)
+    - [Navigation Drawer and Menu](#navigation-drawer-and-menu)
+    - [Add Note](#add-note)
+    - [Edit Note](#edit-note)
+    
+    <br>
+    :point_down: :point_down: :point_down: :point_down: :point_down:
+    
+    <br>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ochudidesterio/GADS-NoteKeeper)
+    
+    
 # GADS-NoteKeeper
 
 A basic android application to display a list of courses and notes related to each course.
